@@ -1,0 +1,24 @@
+{
+    "name": "raccoonjs-api-example",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "dependencies": {
+        "raccoonjs-api": "^1.0.0"
+    },
+    "devDependencies": {},
+    "scripts": {
+        "start": "node index.js"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/josestg/raccoonjs-api-example.git"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/josestg/raccoonjs-api-example/issues"
+    },
+    "homepage": "https://github.com/josestg/raccoonjs-api-example#readme"
+}
